@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>TShock</id>
+    <version>5.2.0</version>
+    <authors>Pryaxis &amp; TShock Contributors</authors>
+    <license type="expression">GPL-3.0-or-later</license>
+    <licenseUrl>https://licenses.nuget.org/GPL-3.0-or-later</licenseUrl>
+    <description>TShock is a toolbox for Terraria servers and communities.</description>
+    <copyright>Copyright © Pryaxis &amp; TShock Contributors 2011-2023</copyright>
+    <repository type="git" commit="5d585bb891ef6ed855ec3692c36712e64be3d867" />
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="TSAPI" version="5.2.0" exclude="Build,Analyzers" />
+        <dependency id="BCrypt.Net-Next" version="4.0.3" exclude="Build,Analyzers" />
+        <dependency id="GetText.NET" version="1.7.14" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Data.Sqlite" version="6.0.11" exclude="Build,Analyzers" />
+        <dependency id="MySql.Data" version="8.0.31" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <contentFiles>
+      <files include="any/net6.0/HttpServer.dll" buildAction="None" copyToOutput="true" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="/root/TShock/TShockAPI/bin/Debug/net6.0/TShockAPI.dll" target="lib/net6.0/TShockAPI.dll" />
+    <file src="/root/TShock/TShockAPI/bin/Debug/net6.0/TShockAPI.xml" target="lib/net6.0/TShockAPI.xml" />
+    <file src="/root/TShock/prebuilts/HttpServer.dll" target="content/HttpServer.dll" />
+    <file src="/root/TShock/prebuilts/HttpServer.dll" target="contentFiles/any/net6.0/HttpServer.dll" />
+  </files>
+</package>

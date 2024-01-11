@@ -1,0 +1,245 @@
+{
+  "format": 1,
+  "restore": {
+    "/root/TShock/TShockLauncher/TShockLauncher.csproj": {}
+  },
+  "projects": {
+    "/root/TShock/TShockLauncher/TShockLauncher.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/root/TShock/TShockLauncher/TShockLauncher.csproj",
+        "projectName": "TShock.Server",
+        "projectPath": "/root/TShock/TShockLauncher/TShockLauncher.csproj",
+        "packagesPath": "/root/.nuget/packages/",
+        "outputPath": "/root/TShock/TShockLauncher/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/root/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/root/TShock/TShockPluginManager/TShockPluginManager.csproj": {
+                "projectPath": "/root/TShock/TShockPluginManager/TShockPluginManager.csproj"
+              },
+              "/root/TShock/TerrariaServerAPI/TerrariaServerAPI/TerrariaServerAPI.csproj": {
+                "projectPath": "/root/TShock/TerrariaServerAPI/TerrariaServerAPI/TerrariaServerAPI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            },
+            "GetText.NET": {
+              "target": "Package",
+              "version": "[1.7.14, )"
+            },
+            "Microsoft.Data.Sqlite": {
+              "target": "Package",
+              "version": "[6.0.11, )"
+            },
+            "ModFramework": {
+              "target": "Package",
+              "version": "[1.1.7, )",
+              "generatePathProperty": true
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.31, )"
+            },
+            "OTAPI.Upcoming": {
+              "include": "None",
+              "target": "Package",
+              "version": "[3.1.20, )",
+              "generatePathProperty": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/root/TShock/TShockPluginManager/TShockPluginManager.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/root/TShock/TShockPluginManager/TShockPluginManager.csproj",
+        "projectName": "TShockPluginManager",
+        "projectPath": "/root/TShock/TShockPluginManager/TShockPluginManager.csproj",
+        "packagesPath": "/root/.nuget/packages/",
+        "outputPath": "/root/TShock/TShockPluginManager/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/root/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "GetText.NET": {
+              "target": "Package",
+              "version": "[1.7.14, )"
+            },
+            "NuGet.Packaging": {
+              "target": "Package",
+              "version": "[6.3.1, )"
+            },
+            "NuGet.Protocol": {
+              "target": "Package",
+              "version": "[6.3.1, )"
+            },
+            "NuGet.Resolver": {
+              "target": "Package",
+              "version": "[6.3.1, )"
+            },
+            "System.CommandLine": {
+              "target": "Package",
+              "version": "[2.0.0-beta4.22272.1, )"
+            },
+            "System.Reflection.MetadataLoadContext": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/root/TShock/TerrariaServerAPI/TerrariaServerAPI/TerrariaServerAPI.csproj": {
+      "version": "5.2.0",
+      "restore": {
+        "projectUniqueName": "/root/TShock/TerrariaServerAPI/TerrariaServerAPI/TerrariaServerAPI.csproj",
+        "projectName": "TSAPI",
+        "projectPath": "/root/TShock/TerrariaServerAPI/TerrariaServerAPI/TerrariaServerAPI.csproj",
+        "packagesPath": "/root/.nuget/packages/",
+        "outputPath": "/root/TShock/TerrariaServerAPI/TerrariaServerAPI/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/root/TShock/TerrariaServerAPI/TerrariaServerAPI/nuget.config",
+          "/root/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/MonoMod/MonoMod/_packaging/DevBuilds%40Local/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "OTAPI.Upcoming": {
+              "target": "Package",
+              "version": "[3.1.20, )"
+            },
+            "System.Diagnostics.PerformanceCounter": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

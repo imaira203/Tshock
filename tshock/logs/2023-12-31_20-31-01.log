@@ -1,0 +1,24 @@
+2023-12-31 20:31:01 - TShock: INFO: TShock was improperly shut down. Please use the exit command in the future to prevent this.
+2023-12-31 20:31:01 - TShock: INFO: TShock 5.2.0.0 (Intensity) now running.
+2023-12-31 20:31:01 - TShock: INFO: AutoSave Enabled
+2023-12-31 20:31:01 - TShock: INFO: Backups Enabled
+2023-12-31 20:31:01 - TShock: INFO: Welcome to TShock for Terraria!
+2023-12-31 20:31:01 - TShock: INFO: TShock comes with no warranty & is free software.
+2023-12-31 20:31:01 - TShock: INFO: You can modify & distribute it under the terms of the GNU GPLv3.
+2023-12-31 20:31:33 - TShock: INFO: Login before join enabled. Users may be prompted for an account specific password instead of a server password on connect.
+2023-12-31 20:31:33 - TShock: INFO: Login using UUID enabled. Users automatically login via UUID.
+2023-12-31 20:31:33 - TShock: INFO: A malicious server can easily steal a user's UUID. You may consider turning this option off if you run a public server.
+2023-12-31 20:33:25 - TShock: INFO: Aira (59.153.240.24) from 'guest' group joined. (1/8)
+2023-12-31 20:33:25 - Utils: INFO: Broadcast: Aira has joined.
+2023-12-31 20:33:33 - Utils: INFO: Aira executed: /setup 4131827.
+2023-12-31 20:33:56 - Utils: INFO: Aira executed (args omitted): /register.
+2023-12-31 20:34:11 - Utils: INFO: Aira executed (args omitted): /register.
+2023-12-31 20:34:11 - Commands: INFO: Aira registered an account: "Aira".
+2023-12-31 20:34:22 - Utils: INFO: Aira executed (args omitted): /login.
+2023-12-31 20:34:22 - Commands: INFO: Aira authenticated successfully as user: Aira.
+2023-12-31 20:34:25 - Utils: INFO: Aira executed: /setup 4131827.
+2023-12-31 20:34:37 - Utils: INFO: Broadcast: Aira has left.
+2023-12-31 20:34:37 - TShock: INFO: Aira disconnected.
+2023-12-31 20:34:37 - Utils: INFO: Broadcast: Saving world...
+2023-12-31 20:34:39 - Utils: INFO: Broadcast: World saved.
+2023-12-31 20:34:39 - SaveManager: INFO: World saved at (/root/.local/share/Terraria/Worlds/Tani_x_Aira.wld)

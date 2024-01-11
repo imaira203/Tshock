@@ -1,0 +1,16 @@
+/root/TShock/TShockInstaller/bin/Debug/net6.0/TShock.Installer
+/root/TShock/TShockInstaller/bin/Debug/net6.0/TShock.Installer.deps.json
+/root/TShock/TShockInstaller/bin/Debug/net6.0/TShock.Installer.runtimeconfig.json
+/root/TShock/TShockInstaller/bin/Debug/net6.0/TShock.Installer.dll
+/root/TShock/TShockInstaller/bin/Debug/net6.0/ICSharpCode.SharpZipLib.dll
+/root/TShock/TShockInstaller/obj/Debug/net6.0/TShockInstaller.csproj.AssemblyReference.cache
+/root/TShock/TShockInstaller/obj/Debug/net6.0/TShockInstaller.GeneratedMSBuildEditorConfig.editorconfig
+/root/TShock/TShockInstaller/obj/Debug/net6.0/TShockInstaller.AssemblyInfoInputs.cache
+/root/TShock/TShockInstaller/obj/Debug/net6.0/TShockInstaller.AssemblyInfo.cs
+/root/TShock/TShockInstaller/obj/Debug/net6.0/TShockInstaller.csproj.CoreCompileInputs.cache
+/root/TShock/TShockInstaller/obj/Debug/net6.0/TShockInstaller.sourcelink.json
+/root/TShock/TShockInstaller/obj/Debug/net6.0/TShockInstaller.csproj.CopyComplete
+/root/TShock/TShockInstaller/obj/Debug/net6.0/TShock.Installer.dll
+/root/TShock/TShockInstaller/obj/Debug/net6.0/refint/TShock.Installer.dll
+/root/TShock/TShockInstaller/obj/Debug/net6.0/TShockInstaller.genruntimeconfig.cache
+/root/TShock/TShockInstaller/obj/Debug/net6.0/ref/TShock.Installer.dll

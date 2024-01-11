@@ -1,0 +1,13 @@
+/root/TShock/TShockPluginManager/bin/Debug/net6.0/TShockPluginManager.deps.json
+/root/TShock/TShockPluginManager/bin/Debug/net6.0/TShockPluginManager.dll
+/root/TShock/TShockPluginManager/bin/Debug/net6.0/TShockPluginManager.pdb
+/root/TShock/TShockPluginManager/obj/Debug/net6.0/TShockPluginManager.csproj.AssemblyReference.cache
+/root/TShock/TShockPluginManager/obj/Debug/net6.0/TShockPluginManager.GeneratedMSBuildEditorConfig.editorconfig
+/root/TShock/TShockPluginManager/obj/Debug/net6.0/TShockPluginManager.AssemblyInfoInputs.cache
+/root/TShock/TShockPluginManager/obj/Debug/net6.0/TShockPluginManager.AssemblyInfo.cs
+/root/TShock/TShockPluginManager/obj/Debug/net6.0/TShockPluginManager.csproj.CoreCompileInputs.cache
+/root/TShock/TShockPluginManager/obj/Debug/net6.0/TShockPluginManager.sourcelink.json
+/root/TShock/TShockPluginManager/obj/Debug/net6.0/TShockPluginManager.dll
+/root/TShock/TShockPluginManager/obj/Debug/net6.0/refint/TShockPluginManager.dll
+/root/TShock/TShockPluginManager/obj/Debug/net6.0/TShockPluginManager.pdb
+/root/TShock/TShockPluginManager/obj/Debug/net6.0/ref/TShockPluginManager.dll
