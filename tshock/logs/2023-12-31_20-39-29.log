@@ -2612,3 +2612,426 @@
 2024-01-11 12:26:04 - Utils: INFO: Broadcast: World saved.
 2024-01-11 12:26:04 - SaveManager: INFO: World saved at (tshock/backups/Tani_x_Aira.wld.2024-01-11T04.26.01Z.bak)
 2024-01-11 12:26:04 - BackupManager: INFO: World backed up (tshock/backups/Tani_x_Aira.wld.2024-01-11T04.26.01Z.bak).
+2024-01-11 13:35:40 - Utils: INFO: Broadcast: Saving world...
+2024-01-11 13:35:43 - Utils: INFO: Broadcast: World saved.
+2024-01-11 13:35:43 - SaveManager: INFO: World saved at (tshock/backups/Tani_x_Aira.wld.2024-01-11T05.35.40Z.bak)
+2024-01-11 13:35:43 - BackupManager: INFO: World backed up (tshock/backups/Tani_x_Aira.wld.2024-01-11T05.35.40Z.bak).
+2024-01-11 13:35:49 - Utils: INFO: Broadcast: Saving world...
+2024-01-11 15:13:20 - Utils: INFO: Broadcast: Saving world...
+2024-01-11 15:13:22 - Utils: INFO: Broadcast: World saved.
+2024-01-11 15:13:22 - SaveManager: INFO: World saved at (tshock/backups/Tani_x_Aira.wld.2024-01-11T07.13.20Z.bak)
+2024-01-11 15:13:22 - BackupManager: INFO: World backed up (tshock/backups/Tani_x_Aira.wld.2024-01-11T07.13.20Z.bak).
+2024-01-11 15:56:20 - Utils: INFO: Broadcast: Saving world...
+2024-01-11 15:56:20 - GetDataHandlers: INFO: Tani authenticated successfully as user Tani.
+2024-01-11 15:56:22 - TShock: INFO: Tani (113.185.41.121) from 'trustedadmin' group joined. (1/8)
+2024-01-11 15:56:22 - Utils: INFO: Broadcast: Tani has joined.
+2024-01-11 15:56:23 - Utils: INFO: Broadcast: World saved.
+2024-01-11 15:56:23 - SaveManager: INFO: World saved at (tshock/backups/Tani_x_Aira.wld.2024-01-11T07.56.20Z.bak)
+2024-01-11 15:56:23 - BackupManager: INFO: World backed up (tshock/backups/Tani_x_Aira.wld.2024-01-11T07.56.20Z.bak).
+2024-01-11 16:05:17 - Utils: INFO: Broadcast: Saving world...
+2024-01-11 16:06:20 - Utils: INFO: Broadcast: Saving world...
+2024-01-11 16:06:23 - Utils: INFO: Broadcast: World saved.
+2024-01-11 16:06:23 - SaveManager: INFO: World saved at (tshock/backups/Tani_x_Aira.wld.2024-01-11T08.06.20Z.bak)
+2024-01-11 16:06:23 - BackupManager: INFO: World backed up (tshock/backups/Tani_x_Aira.wld.2024-01-11T08.06.20Z.bak).
+2024-01-11 16:06:24 - Utils: INFO: Broadcast: Tani has left.
+2024-01-11 16:06:24 - TShock: INFO: Tani disconnected.
+2024-01-11 16:06:24 - Utils: INFO: Broadcast: Saving world...
+2024-01-11 16:06:26 - Utils: INFO: Broadcast: World saved.
+2024-01-11 16:06:26 - SaveManager: INFO: World saved at (/root/.local/share/Terraria/Worlds/Tani_x_Aira.wld)
+2024-01-11 16:10:20 - GetDataHandlers: INFO: Tani authenticated successfully as user Tani.
+2024-01-11 16:10:23 - TShock: INFO: Tani (113.185.41.121) from 'trustedadmin' group joined. (1/8)
+2024-01-11 16:10:23 - Utils: INFO: Broadcast: Tani has joined.
+2024-01-11 16:16:20 - Utils: INFO: Broadcast: Saving world...
+2024-01-11 16:16:23 - Utils: INFO: Broadcast: World saved.
+2024-01-11 16:16:23 - SaveManager: INFO: World saved at (tshock/backups/Tani_x_Aira.wld.2024-01-11T08.16.20Z.bak)
+2024-01-11 16:16:23 - BackupManager: INFO: World backed up (tshock/backups/Tani_x_Aira.wld.2024-01-11T08.16.20Z.bak).
+2024-01-11 16:17:01 - Utils: INFO: Broadcast: Tani: d
+2024-01-11 16:19:13 - Utils: INFO: Broadcast: Saving world...
+2024-01-11 16:26:05 - Utils: INFO: Broadcast: Tani: d
+2024-01-11 16:26:05 - Utils: INFO: Broadcast: Tani: uhh
+2024-01-11 16:26:20 - Utils: INFO: Broadcast: Saving world...
+2024-01-11 16:26:23 - Utils: INFO: Broadcast: World saved.
+2024-01-11 16:26:23 - SaveManager: INFO: World saved at (tshock/backups/Tani_x_Aira.wld.2024-01-11T08.26.20Z.bak)
+2024-01-11 16:26:23 - BackupManager: INFO: World backed up (tshock/backups/Tani_x_Aira.wld.2024-01-11T08.26.20Z.bak).
+2024-01-11 16:29:13 - Utils: INFO: Broadcast: Saving world...
+2024-01-11 16:32:17 - Utils: INFO: Broadcast: Tani has left.
+2024-01-11 16:32:17 - TShock: INFO: Tani disconnected.
+2024-01-11 16:32:17 - Utils: INFO: Broadcast: Saving world...
+2024-01-11 16:32:19 - Utils: INFO: Broadcast: World saved.
+2024-01-11 16:32:19 - SaveManager: INFO: World saved at (/root/.local/share/Terraria/Worlds/Tani_x_Aira.wld)
+2024-01-11 16:32:32 - GetDataHandlers: INFO: Tani authenticated successfully as user Tani.
+2024-01-11 16:32:41 - TShock: INFO: Tani (113.185.41.121) from 'trustedadmin' group joined. (1/8)
+2024-01-11 16:32:41 - Utils: INFO: Broadcast: Tani has joined.
+2024-01-11 16:32:50 - Utils: INFO: Broadcast: Tani: /
+2024-01-11 16:36:20 - Utils: INFO: Broadcast: Saving world...
+2024-01-11 16:36:23 - Utils: INFO: Broadcast: World saved.
+2024-01-11 16:36:23 - SaveManager: INFO: World saved at (tshock/backups/Tani_x_Aira.wld.2024-01-11T08.36.20Z.bak)
+2024-01-11 16:36:23 - BackupManager: INFO: World backed up (tshock/backups/Tani_x_Aira.wld.2024-01-11T08.36.20Z.bak).
+2024-01-11 16:39:27 - Utils: INFO: Broadcast: Saving world...
+2024-01-11 16:40:12 - Utils: INFO: Tani executed: /item glass wall.
+2024-01-11 16:40:35 - Utils: INFO: Broadcast: Tani has left.
+2024-01-11 16:40:35 - TShock: INFO: Tani disconnected.
+2024-01-11 16:40:35 - Utils: INFO: Broadcast: Saving world...
+2024-01-11 16:40:37 - Utils: INFO: Broadcast: World saved.
+2024-01-11 16:40:37 - SaveManager: INFO: World saved at (/root/.local/share/Terraria/Worlds/Tani_x_Aira.wld)
+2024-01-11 16:42:08 - GetDataHandlers: INFO: Tani authenticated successfully as user Tani.
+2024-01-11 16:42:15 - TShock: INFO: Tani (113.185.41.121) from 'trustedadmin' group joined. (1/8)
+2024-01-11 16:42:15 - Utils: INFO: Broadcast: Tani has joined.
+2024-01-11 16:42:26 - Utils: INFO: Tani executed: /item glass wall.
+2024-01-11 16:45:57 - Utils: INFO: Broadcast: Tani has left.
+2024-01-11 16:45:57 - TShock: INFO: Tani disconnected.
+2024-01-11 16:45:57 - Utils: INFO: Broadcast: Saving world...
+2024-01-11 16:45:59 - Utils: INFO: Broadcast: World saved.
+2024-01-11 16:45:59 - SaveManager: INFO: World saved at (/root/.local/share/Terraria/Worlds/Tani_x_Aira.wld)
+2024-01-11 16:46:13 - GetDataHandlers: INFO: Tani authenticated successfully as user Tani.
+2024-01-11 16:46:20 - Utils: INFO: Broadcast: Saving world...
+2024-01-11 16:46:23 - Utils: INFO: Broadcast: World saved.
+2024-01-11 16:46:23 - SaveManager: INFO: World saved at (tshock/backups/Tani_x_Aira.wld.2024-01-11T08.46.20Z.bak)
+2024-01-11 16:46:23 - BackupManager: INFO: World backed up (tshock/backups/Tani_x_Aira.wld.2024-01-11T08.46.20Z.bak).
+2024-01-11 16:46:46 - Utils: INFO: Broadcast: Tani has left.
+2024-01-11 16:46:46 - TShock: INFO: Tani disconnected.
+2024-01-11 16:46:47 - GetDataHandlers: INFO: Tani authenticated successfully as user Tani.
+2024-01-11 16:47:08 - TShock: INFO: Tani (113.185.41.121) from 'trustedadmin' group joined. (1/8)
+2024-01-11 16:47:08 - Utils: INFO: Broadcast: Tani has joined.
+2024-01-11 16:47:34 - Utils: INFO: Tani executed: /item glass wall.
+2024-01-11 16:48:10 - Utils: INFO: Tani executed: /item glass wall.
+2024-01-11 16:48:24 - Utils: INFO: Tani executed: /item glass wall.
+2024-01-11 16:51:15 - Utils: INFO: Broadcast: Saving world...
+2024-01-11 16:54:15 - Utils: INFO: Broadcast: Tani has left.
+2024-01-11 16:54:15 - TShock: INFO: Tani disconnected.
+2024-01-11 16:54:15 - Utils: INFO: Broadcast: Saving world...
+2024-01-11 16:54:17 - Utils: INFO: Broadcast: World saved.
+2024-01-11 16:54:17 - SaveManager: INFO: World saved at (/root/.local/share/Terraria/Worlds/Tani_x_Aira.wld)
+2024-01-11 16:54:42 - GetDataHandlers: INFO: Tani authenticated successfully as user Tani.
+2024-01-11 16:55:13 - TShock: INFO: Tani disconnected.
+2024-01-11 16:55:18 - GetDataHandlers: INFO: Tani authenticated successfully as user Tani.
+2024-01-11 16:55:22 - TShock: INFO: Tani (113.185.41.121) from 'trustedadmin' group joined. (1/8)
+2024-01-11 16:55:22 - Utils: INFO: Broadcast: Tani has joined.
+2024-01-11 16:56:20 - Utils: INFO: Broadcast: Saving world...
+2024-01-11 16:56:23 - Utils: INFO: Broadcast: World saved.
+2024-01-11 16:56:23 - SaveManager: INFO: World saved at (tshock/backups/Tani_x_Aira.wld.2024-01-11T08.56.20Z.bak)
+2024-01-11 16:56:23 - BackupManager: INFO: World backed up (tshock/backups/Tani_x_Aira.wld.2024-01-11T08.56.20Z.bak).
+2024-01-11 17:01:44 - Utils: INFO: Broadcast: Saving world...
+2024-01-11 17:06:20 - Utils: INFO: Broadcast: Saving world...
+2024-01-11 17:06:23 - Utils: INFO: Broadcast: World saved.
+2024-01-11 17:06:23 - SaveManager: INFO: World saved at (tshock/backups/Tani_x_Aira.wld.2024-01-11T09.06.20Z.bak)
+2024-01-11 17:06:23 - BackupManager: INFO: World backed up (tshock/backups/Tani_x_Aira.wld.2024-01-11T09.06.20Z.bak).
+2024-01-11 17:11:44 - Utils: INFO: Broadcast: Saving world...
+2024-01-11 17:16:20 - Utils: INFO: Broadcast: Saving world...
+2024-01-11 17:16:23 - Utils: INFO: Broadcast: World saved.
+2024-01-11 17:16:23 - SaveManager: INFO: World saved at (tshock/backups/Tani_x_Aira.wld.2024-01-11T09.16.20Z.bak)
+2024-01-11 17:16:23 - BackupManager: INFO: World backed up (tshock/backups/Tani_x_Aira.wld.2024-01-11T09.16.20Z.bak).
+2024-01-11 17:21:43 - Utils: INFO: Tani executed: /item bunny.
+2024-01-11 17:21:44 - Utils: INFO: Broadcast: Saving world...
+2024-01-11 17:22:08 - Utils: INFO: Tani executed: /item bunny.
+2024-01-11 17:23:12 - Utils: INFO: Tani executed: /item bunny.
+2024-01-11 17:23:16 - TSPlayer: INFO: Kicked Tani for : 'Released critter was not from its item.'
+2024-01-11 17:23:16 - Utils: INFO: Broadcast: Tani has left.
+2024-01-11 17:23:16 - TShock: INFO: Tani disconnected.
+2024-01-11 17:23:16 - Utils: INFO: Broadcast: Tani was kicked for 'Released critter was not from its item.'
+2024-01-11 17:23:16 - Utils: INFO: Broadcast: Saving world...
+2024-01-11 17:23:18 - Utils: INFO: Broadcast: World saved.
+2024-01-11 17:23:18 - SaveManager: INFO: World saved at (/root/.local/share/Terraria/Worlds/Tani_x_Aira.wld)
+2024-01-11 17:23:24 - GetDataHandlers: INFO: Tani authenticated successfully as user Tani.
+2024-01-11 17:23:31 - TShock: INFO: Tani (113.185.41.121) from 'trustedadmin' group joined. (1/8)
+2024-01-11 17:23:31 - Utils: INFO: Broadcast: Tani has joined.
+2024-01-11 17:24:41 - Utils: INFO: Broadcast: Tani has left.
+2024-01-11 17:24:41 - TShock: INFO: Tani disconnected.
+2024-01-11 17:24:41 - Utils: INFO: Broadcast: Saving world...
+2024-01-11 17:24:43 - Utils: INFO: Broadcast: World saved.
+2024-01-11 17:24:43 - SaveManager: INFO: World saved at (/root/.local/share/Terraria/Worlds/Tani_x_Aira.wld)
+2024-01-11 18:12:48 - Utils: INFO: Broadcast: Saving world...
+2024-01-11 18:12:48 - GetDataHandlers: INFO: Tani authenticated successfully as user Tani.
+2024-01-11 18:12:50 - TShock: INFO: Tani (116.107.211.89) from 'trustedadmin' group joined. (1/8)
+2024-01-11 18:12:50 - Utils: INFO: Broadcast: Tani has joined.
+2024-01-11 18:12:50 - Utils: INFO: Broadcast: World saved.
+2024-01-11 18:12:50 - SaveManager: INFO: World saved at (tshock/backups/Tani_x_Aira.wld.2024-01-11T10.12.48Z.bak)
+2024-01-11 18:12:50 - BackupManager: INFO: World backed up (tshock/backups/Tani_x_Aira.wld.2024-01-11T10.12.48Z.bak).
+2024-01-11 18:15:23 - Utils: INFO: Broadcast: Tani has left.
+2024-01-11 18:15:23 - TShock: INFO: Tani disconnected.
+2024-01-11 18:15:23 - Utils: INFO: Broadcast: Saving world...
+2024-01-11 18:15:25 - Utils: INFO: Broadcast: World saved.
+2024-01-11 18:15:25 - SaveManager: INFO: World saved at (/root/.local/share/Terraria/Worlds/Tani_x_Aira.wld)
+2024-01-11 18:24:25 - Utils: INFO: Broadcast: Saving world...
+2024-01-11 18:24:25 - GetDataHandlers: INFO: Aira authenticated successfully as user Aira.
+2024-01-11 18:24:27 - TShock: INFO: Aira (1.54.177.203) from 'trustedadmin' group joined. (1/8)
+2024-01-11 18:24:27 - Utils: INFO: Broadcast: Aira has joined.
+2024-01-11 18:24:27 - Utils: INFO: Broadcast: World saved.
+2024-01-11 18:24:27 - SaveManager: INFO: World saved at (tshock/backups/Tani_x_Aira.wld.2024-01-11T10.24.25Z.bak)
+2024-01-11 18:24:27 - BackupManager: INFO: World backed up (tshock/backups/Tani_x_Aira.wld.2024-01-11T10.24.25Z.bak).
+2024-01-11 18:28:53 - Utils: INFO: Broadcast: Saving world...
+2024-01-11 18:32:03 - Utils: INFO: Broadcast: Aira has left.
+2024-01-11 18:32:03 - TShock: INFO: Aira disconnected.
+2024-01-11 18:32:03 - Utils: INFO: Broadcast: Saving world...
+2024-01-11 18:32:06 - Utils: INFO: Broadcast: World saved.
+2024-01-11 18:32:06 - SaveManager: INFO: World saved at (/root/.local/share/Terraria/Worlds/Tani_x_Aira.wld)
+2024-01-11 18:45:42 - Utils: INFO: Broadcast: Saving world...
+2024-01-11 18:45:44 - Utils: INFO: Broadcast: World saved.
+2024-01-11 18:45:44 - SaveManager: INFO: World saved at (tshock/backups/Tani_x_Aira.wld.2024-01-11T10.45.42Z.bak)
+2024-01-11 18:45:44 - BackupManager: INFO: World backed up (tshock/backups/Tani_x_Aira.wld.2024-01-11T10.45.42Z.bak).
+2024-01-11 19:58:16 - Utils: INFO: Broadcast: Saving world...
+2024-01-11 19:58:16 - GetDataHandlers: INFO: Tani authenticated successfully as user Tani.
+2024-01-11 19:58:18 - TShock: INFO: Tani (171.234.110.84) from 'trustedadmin' group joined. (1/8)
+2024-01-11 19:58:18 - Utils: INFO: Broadcast: Tani has joined.
+2024-01-11 19:58:18 - Utils: INFO: Broadcast: World saved.
+2024-01-11 19:58:18 - SaveManager: INFO: World saved at (tshock/backups/Tani_x_Aira.wld.2024-01-11T11.58.16Z.bak)
+2024-01-11 19:58:18 - BackupManager: INFO: World backed up (tshock/backups/Tani_x_Aira.wld.2024-01-11T11.58.16Z.bak).
+2024-01-11 20:03:51 - Utils: INFO: Broadcast: Tani has left.
+2024-01-11 20:03:51 - TShock: INFO: Tani disconnected.
+2024-01-11 20:03:51 - Utils: INFO: Broadcast: Saving world...
+2024-01-11 20:03:54 - Utils: INFO: Broadcast: World saved.
+2024-01-11 20:03:54 - SaveManager: INFO: World saved at (/root/.local/share/Terraria/Worlds/Tani_x_Aira.wld)
+2024-01-11 20:11:20 - Utils: INFO: Broadcast: Saving world...
+2024-01-11 20:11:22 - Utils: INFO: Broadcast: World saved.
+2024-01-11 20:11:22 - SaveManager: INFO: World saved at (tshock/backups/Tani_x_Aira.wld.2024-01-11T12.11.20Z.bak)
+2024-01-11 20:11:22 - BackupManager: INFO: World backed up (tshock/backups/Tani_x_Aira.wld.2024-01-11T12.11.20Z.bak).
+2024-01-11 20:52:35 - Utils: INFO: Broadcast: Saving world...
+2024-01-11 20:52:35 - GetDataHandlers: INFO: Aira authenticated successfully as user Aira.
+2024-01-11 20:52:37 - TShock: INFO: Aira (59.153.253.53) from 'trustedadmin' group joined. (1/8)
+2024-01-11 20:52:37 - Utils: INFO: Broadcast: Aira has joined.
+2024-01-11 20:52:37 - Utils: INFO: Broadcast: World saved.
+2024-01-11 20:52:37 - SaveManager: INFO: World saved at (tshock/backups/Tani_x_Aira.wld.2024-01-11T12.52.35Z.bak)
+2024-01-11 20:52:37 - BackupManager: INFO: World backed up (tshock/backups/Tani_x_Aira.wld.2024-01-11T12.52.35Z.bak).
+2024-01-11 20:53:27 - Utils: INFO: Aira executed: /item golden fishing pole.
+2024-01-11 20:53:34 - Utils: INFO: Aira executed: /item golden fishing pole.
+2024-01-11 20:53:39 - Utils: INFO: Aira executed: /item pole.
+2024-01-11 20:53:41 - Utils: INFO: Broadcast: Saving world...
+2024-01-11 20:53:54 - Utils: INFO: Aira executed: /item bug net.
+2024-01-11 20:54:03 - Utils: INFO: Aira executed: /item truffle worm.
+2024-01-11 20:54:50 - Utils: INFO: Aira executed: /item golden fishing rod.
+2024-01-11 20:55:48 - Utils: INFO: Aira executed: /item sticky dynamite.
+2024-01-11 20:56:31 - Utils: INFO: Aira executed: /godmode.
+2024-01-11 20:58:52 - Utils: INFO: Aira executed: /item bridge.
+2024-01-11 21:01:36 - Utils: INFO: Aira executed: /item stone plank.
+2024-01-11 21:01:44 - Utils: INFO: Aira executed: /item platform.
+2024-01-11 21:02:16 - Utils: INFO: Aira executed: /item bluebrick platform.
+2024-01-11 21:02:35 - Utils: INFO: Broadcast: Saving world...
+2024-01-11 21:02:37 - Utils: INFO: Aira executed: /item wooden platform.
+2024-01-11 21:02:37 - Utils: INFO: Broadcast: World saved.
+2024-01-11 21:02:37 - SaveManager: INFO: World saved at (tshock/backups/Tani_x_Aira.wld.2024-01-11T13.02.35Z.bak)
+2024-01-11 21:02:37 - BackupManager: INFO: World backed up (tshock/backups/Tani_x_Aira.wld.2024-01-11T13.02.35Z.bak).
+2024-01-11 21:02:43 - Utils: INFO: Aira executed: /item wood platform.
+2024-01-11 21:02:52 - Utils: INFO: Aira executed: /item living wood.
+2024-01-11 21:02:59 - Utils: INFO: Aira executed: /item palm wood.
+2024-01-11 21:03:41 - Utils: INFO: Broadcast: Saving world...
+2024-01-11 21:04:26 - Utils: INFO: Aira executed: /item wooden fwnce.
+2024-01-11 21:04:30 - Utils: INFO: Aira executed: /item fence.
+2024-01-11 21:04:44 - Utils: INFO: Aira executed: /item palm wood fence.
+2024-01-11 21:05:33 - Utils: INFO: Aira executed: /item stardust hamẫe.
+2024-01-11 21:05:51 - Utils: INFO: Aira executed: /item stardust hamaxe.
+2024-01-11 21:09:45 - Utils: INFO: Aira executed: /item wood.
+2024-01-11 21:11:02 - Utils: INFO: Aira executed: /item lamp.
+2024-01-11 21:11:16 - Utils: INFO: Aira executed: /item light.
+2024-01-11 21:11:57 - Utils: INFO: Aira executed: /item palm wood lamp.
+2024-01-11 21:12:22 - GetDataHandlers: INFO: Tani authenticated successfully as user Tani.
+2024-01-11 21:12:25 - TShock: INFO: Tani (171.234.110.84) from 'trustedadmin' group joined. (2/8)
+2024-01-11 21:12:25 - Utils: INFO: Broadcast: Tani has joined.
+2024-01-11 21:12:35 - Utils: INFO: Broadcast: Saving world...
+2024-01-11 21:12:37 - Utils: INFO: Broadcast: World saved.
+2024-01-11 21:12:37 - SaveManager: INFO: World saved at (tshock/backups/Tani_x_Aira.wld.2024-01-11T13.12.35Z.bak)
+2024-01-11 21:12:37 - BackupManager: INFO: World backed up (tshock/backups/Tani_x_Aira.wld.2024-01-11T13.12.35Z.bak).
+2024-01-11 21:12:46 - Utils: INFO: Broadcast: Tani: a deo rep e
+2024-01-11 21:13:00 - Utils: INFO: Tani executed: /tp Aira.
+2024-01-11 21:13:41 - Utils: INFO: Broadcast: Saving world...
+2024-01-11 21:20:13 - Utils: INFO: Broadcast: Aira: lam cau di
+2024-01-11 21:21:44 - Utils: INFO: Aira executed: /item watwr bucket.
+2024-01-11 21:21:52 - Utils: INFO: Aira executed: /item water bucket.
+2024-01-11 21:22:33 - Utils: INFO: Tani executed: /item water.
+2024-01-11 21:22:35 - Utils: INFO: Broadcast: Saving world...
+2024-01-11 21:22:37 - Utils: INFO: Broadcast: World saved.
+2024-01-11 21:22:37 - SaveManager: INFO: World saved at (tshock/backups/Tani_x_Aira.wld.2024-01-11T13.22.35Z.bak)
+2024-01-11 21:22:37 - BackupManager: INFO: World backed up (tshock/backups/Tani_x_Aira.wld.2024-01-11T13.22.35Z.bak).
+2024-01-11 21:22:50 - Utils: INFO: Tani executed: /item 148.
+2024-01-11 21:23:32 - Utils: INFO: Tani executed: /item 165.
+2024-01-11 21:23:34 - Utils: INFO: Broadcast: Aira: tha nuoc di
+2024-01-11 21:23:41 - Utils: INFO: Broadcast: Saving world...
+2024-01-11 21:23:46 - Utils: INFO: Broadcast: Tani: no ten la j
+2024-01-11 21:23:50 - Utils: INFO: Broadcast: Tani: k tim thay
+2024-01-11 21:23:51 - Utils: INFO: Broadcast: Aira: water bucket
+2024-01-11 21:24:08 - Utils: INFO: Tani executed: /item water bucket.
+2024-01-11 21:25:11 - Utils: INFO: Broadcast: Tani: /
+2024-01-11 21:25:43 - Utils: INFO: Aira executed: /item pump.
+2024-01-11 21:26:04 - Utils: INFO: Aira executed: /item oulet pump.
+2024-01-11 21:26:18 - Utils: INFO: Aira executed: /item outlet pump.
+2024-01-11 21:26:40 - Utils: INFO: Aira executed: /item pipe.
+2024-01-11 21:26:48 - Utils: INFO: Aira executed: /item blowpipe.
+2024-01-11 21:32:35 - Utils: INFO: Broadcast: Saving world...
+2024-01-11 21:32:38 - Utils: INFO: Broadcast: World saved.
+2024-01-11 21:32:38 - SaveManager: INFO: World saved at (tshock/backups/Tani_x_Aira.wld.2024-01-11T13.32.35Z.bak)
+2024-01-11 21:32:38 - BackupManager: INFO: World backed up (tshock/backups/Tani_x_Aira.wld.2024-01-11T13.32.35Z.bak).
+2024-01-11 21:33:41 - Utils: INFO: Broadcast: Saving world...
+2024-01-11 21:35:20 - Utils: INFO: Broadcast: Tani: fesh dou
+2024-01-11 21:35:36 - Utils: INFO: Broadcast: Tani:  ca dau
+2024-01-11 21:35:59 - Utils: INFO: Aira executed: /item chest.
+2024-01-11 21:36:17 - Utils: INFO: Aira executed: /item palm wood door.
+2024-01-11 21:36:39 - Utils: INFO: Aira executed: /item wooden lantern.
+2024-01-11 21:36:46 - Utils: INFO: Aira executed: /item palm wood lantern.
+2024-01-11 21:38:17 - Utils: INFO: Aira executed: /item wood wallpaper.
+2024-01-11 21:38:24 - Utils: INFO: Aira executed: /item wooden wall.
+2024-01-11 21:38:31 - Utils: INFO: Aira executed: /item wood wall.
+2024-01-11 21:39:31 - Utils: INFO: Broadcast: Tani: co ca deo dau ma cau
+2024-01-11 21:40:11 - Utils: INFO: Tani executed: /item fish seeds.
+2024-01-11 21:40:24 - Utils: INFO: Broadcast: Tani: co ne
+2024-01-11 21:40:38 - Utils: INFO: Broadcast: Aira: tu tu r moi co
+2024-01-11 21:40:51 - Utils: INFO: Broadcast: Aira: xay cauu dii
+2024-01-11 21:40:59 - Utils: INFO: Broadcast: Tani: -__-?
+2024-01-11 21:41:10 - Utils: INFO: Broadcast: Tani: xay gi nua
+2024-01-11 21:41:14 - Utils: INFO: Broadcast: Aira: cho dep
+2024-01-11 21:41:16 - Utils: INFO: Broadcast: Aira: :)))
+2024-01-11 21:41:47 - Utils: INFO: Broadcast: Aira: it ca qua
+2024-01-11 21:42:03 - Utils: INFO: Broadcast: Tani: hay phai co moi
+2024-01-11 21:42:08 - Utils: INFO: Broadcast: Tani: giun a
+2024-01-11 21:42:23 - Utils: INFO: Tani executed: /item fish food.
+2024-01-11 21:42:35 - Utils: INFO: Broadcast: Saving world...
+2024-01-11 21:42:37 - Utils: INFO: Broadcast: World saved.
+2024-01-11 21:42:37 - SaveManager: INFO: World saved at (tshock/backups/Tani_x_Aira.wld.2024-01-11T13.42.35Z.bak)
+2024-01-11 21:42:37 - BackupManager: INFO: World backed up (tshock/backups/Tani_x_Aira.wld.2024-01-11T13.42.35Z.bak).
+2024-01-11 21:42:56 - Utils: INFO: Tani executed: /item goldfish.
+2024-01-11 21:43:14 - Utils: INFO: Tani executed: /item goldfish.
+2024-01-11 21:43:24 - Utils: INFO: Broadcast: Tani: ommm
+2024-01-11 21:43:27 - Utils: INFO: Broadcast: Tani: a s
+2024-01-11 21:43:30 - Utils: INFO: Broadcast: Tani: a eeeep
+2024-01-11 21:43:35 - Utils: INFO: Broadcast: Tani: anhhh
+2024-01-11 21:43:38 - Utils: INFO: Broadcast: Tani: no. hettt
+2024-01-11 21:43:41 - Utils: INFO: Broadcast: Saving world...
+2024-01-11 21:44:01 - Utils: INFO: Aira executed: /item fish.
+2024-01-11 21:44:17 - Utils: INFO: Aira executed: /item fish.
+2024-01-11 21:44:58 - Utils: INFO: Broadcast: Tani: hinh nhu k co moi ha
+2024-01-11 21:45:03 - Utils: INFO: Broadcast: Aira: co
+2024-01-11 21:45:05 - Utils: INFO: Broadcast: Aira: worm
+2024-01-11 21:45:09 - Utils: INFO: Aira executed: /item worm.
+2024-01-11 21:46:15 - Utils: INFO: Broadcast: Aira: ehehw
+2024-01-11 21:46:19 - Utils: INFO: Broadcast: Aira: duoc 1 con
+2024-01-11 21:46:20 - Utils: INFO: Broadcast: Tani: wot
+2024-01-11 21:46:29 - Utils: INFO: Broadcast: Tani: cho e cai can cau
+2024-01-11 21:46:40 - Utils: INFO: Aira executed: /item golden fishing rod.
+2024-01-11 21:47:07 - Utils: INFO: Tani executed: /item worm.
+2024-01-11 21:49:17 - Utils: INFO: Broadcast: Tani: o
+2024-01-11 21:49:28 - Utils: INFO: Broadcast: Tani: dang iu ma
+2024-01-11 21:49:37 - Utils: INFO: Broadcast: Aira: tim conkhac
+2024-01-11 21:49:46 - Utils: INFO: Broadcast: Tani: con j
+2024-01-11 21:50:09 - Utils: INFO: Tani executed: /item .
+2024-01-11 21:50:09 - Utils: INFO: Aira executed: /item jellyfish.
+2024-01-11 21:50:26 - Utils: INFO: Tani executed: /item squirrel.
+2024-01-11 21:50:27 - Utils: INFO: Aira executed: /item blue jellyfish.
+2024-01-11 21:50:32 - Utils: INFO: Broadcast: Tani: ))
+2024-01-11 21:51:19 - Utils: INFO: Tani executed: /item fox.
+2024-01-11 21:51:40 - Utils: INFO: Tani executed: /item 4771.
+2024-01-11 21:52:35 - Utils: INFO: Broadcast: Saving world...
+2024-01-11 21:52:37 - Utils: INFO: Broadcast: World saved.
+2024-01-11 21:52:37 - SaveManager: INFO: World saved at (tshock/backups/Tani_x_Aira.wld.2024-01-11T13.52.35Z.bak)
+2024-01-11 21:52:37 - BackupManager: INFO: World backed up (tshock/backups/Tani_x_Aira.wld.2024-01-11T13.52.35Z.bak).
+2024-01-11 21:52:47 - Utils: INFO: Tani executed: /item shark.
+2024-01-11 21:53:10 - Utils: INFO: Aira executed: /item truffle worm.
+2024-01-11 21:53:28 - Utils: INFO: Broadcast: Aira: tha them ca di
+2024-01-11 21:53:32 - Utils: INFO: Broadcast: Aira: ca khac y
+2024-01-11 21:53:37 - Utils: INFO: Tani executed: /item bug.
+2024-01-11 21:53:37 - Utils: INFO: Tani executed: /item bug.
+2024-01-11 21:53:41 - Utils: INFO: Broadcast: Saving world...
+2024-01-11 21:53:41 - Utils: INFO: Aira executed: /item fish.
+2024-01-11 21:53:43 - Utils: INFO: Broadcast: Tani:  ca an thit ng a
+2024-01-11 21:53:47 - Utils: INFO: Broadcast: Tani: =_=
+2024-01-11 21:54:54 - Utils: INFO: Broadcast: Tani: s a cu giet tho cua emm
+2024-01-11 21:56:26 - Utils: INFO: Tani executed: /item piranha.
+2024-01-11 21:56:48 - Utils: INFO: Tani executed: /item 2319 1.
+2024-01-11 21:57:11 - Utils: INFO: Broadcast: Tani: het ca r
+2024-01-11 21:57:21 - Utils: INFO: Tani executed: /item fish.
+2024-01-11 21:57:44 - Utils: INFO: Tani executed: /item moon fish.
+2024-01-11 21:58:40 - Utils: INFO: Aira executed: /item goldfish.
+2024-01-11 21:58:54 - Utils: INFO: Broadcast: Tani: /
+2024-01-11 21:58:58 - Utils: INFO: Aira executed: /item goldfish.
+2024-01-11 21:59:01 - Utils: INFO: Tani executed: /item pikachu.
+2024-01-11 21:59:29 - Utils: INFO: Tani executed: /item tiger.
+2024-01-11 21:59:45 - Utils: INFO: Tani executed: /item cow.
+2024-01-11 21:59:56 - Utils: INFO: Aira executed: /item crab.
+2024-01-11 22:00:01 - Utils: INFO: Aira executed: /item shrimp.
+2024-01-11 22:00:46 - Utils: INFO: Aira executed: /item worm.
+2024-01-11 22:01:48 - Utils: INFO: Broadcast: Tani has left.
+2024-01-11 22:01:48 - TShock: INFO: Tani disconnected.
+2024-01-11 22:02:35 - Utils: INFO: Broadcast: Saving world...
+2024-01-11 22:02:37 - Utils: INFO: Broadcast: World saved.
+2024-01-11 22:02:37 - SaveManager: INFO: World saved at (tshock/backups/Tani_x_Aira.wld.2024-01-11T14.02.35Z.bak)
+2024-01-11 22:02:37 - BackupManager: INFO: World backed up (tshock/backups/Tani_x_Aira.wld.2024-01-11T14.02.35Z.bak).
+2024-01-11 22:03:12 - GetDataHandlers: INFO: Tani authenticated successfully as user Tani.
+2024-01-11 22:03:14 - TShock: INFO: Tani (171.234.110.84) from 'trustedadmin' group joined. (2/8)
+2024-01-11 22:03:14 - Utils: INFO: Broadcast: Tani has joined.
+2024-01-11 22:03:37 - Utils: INFO: Tani executed: /item penguin.
+2024-01-11 22:03:41 - Utils: INFO: Broadcast: Saving world...
+2024-01-11 22:03:59 - Utils: INFO: Tani executed: /home.
+2024-01-11 22:04:47 - Utils: INFO: Broadcast: Tani: co con nay ne
+2024-01-11 22:05:29 - Utils: INFO: Broadcast: Aira: rhoi
+2024-01-11 22:05:32 - Utils: INFO: Broadcast: Aira: tronh roi vl
+2024-01-11 22:05:40 - Utils: INFO: Broadcast: Aira: tha vua thoi
+2024-01-11 22:05:47 - Utils: INFO: Broadcast: Tani: de em 1 con 
+2024-01-11 22:06:22 - Utils: INFO: Broadcast: Tani: )))
+2024-01-11 22:06:28 - Utils: INFO: Aira executed: /item goldfish.
+2024-01-11 22:06:47 - Utils: INFO: Aira executed: /item shark.
+2024-01-11 22:08:46 - Utils: INFO: Broadcast: Tani: s k cau dc
+2024-01-11 22:08:57 - Utils: INFO: Broadcast: Aira: no giat giat la phai keo ve
+2024-01-11 22:09:09 - Utils: INFO: Broadcast: Tani: keo ntn
+2024-01-11 22:09:21 - Utils: INFO: Broadcast: Aira: an nut
+2024-01-11 22:09:48 - Utils: INFO: Broadcast: Tani: r ca dau ))
+2024-01-11 22:09:58 - Utils: INFO: Broadcast: Aira: di cau trong nham thach di :)))
+2024-01-11 22:10:03 - Utils: INFO: Broadcast: Aira: trong hanh trang chu dau
+2024-01-11 22:11:15 - Utils: INFO: Tani executed: /item bass.
+2024-01-11 22:12:10 - Utils: INFO: Broadcast: Aira has left.
+2024-01-11 22:12:10 - TShock: INFO: Aira disconnected.
+2024-01-11 22:12:35 - Utils: INFO: Broadcast: Saving world...
+2024-01-11 22:12:37 - Utils: INFO: Broadcast: World saved.
+2024-01-11 22:12:37 - SaveManager: INFO: World saved at (tshock/backups/Tani_x_Aira.wld.2024-01-11T14.12.35Z.bak)
+2024-01-11 22:12:37 - BackupManager: INFO: World backed up (tshock/backups/Tani_x_Aira.wld.2024-01-11T14.12.35Z.bak).
+2024-01-11 22:12:59 - Utils: INFO: Tani executed: /home.
+2024-01-11 22:13:41 - Utils: INFO: Broadcast: Saving world...
+2024-01-11 22:15:51 - Utils: INFO: Broadcast: Tani has left.
+2024-01-11 22:15:51 - TShock: INFO: Tani disconnected.
+2024-01-11 22:15:51 - Utils: INFO: Broadcast: Saving world...
+2024-01-11 22:15:53 - Utils: INFO: Broadcast: World saved.
+2024-01-11 22:15:53 - SaveManager: INFO: World saved at (/root/.local/share/Terraria/Worlds/Tani_x_Aira.wld)
+2024-01-12 00:03:43 - Utils: INFO: Broadcast: Saving world...
+2024-01-12 00:03:46 - Utils: INFO: Broadcast: World saved.
+2024-01-12 00:03:46 - SaveManager: INFO: World saved at (tshock/backups/Tani_x_Aira.wld.2024-01-11T16.03.43Z.bak)
+2024-01-12 00:03:46 - BackupManager: INFO: World backed up (tshock/backups/Tani_x_Aira.wld.2024-01-11T16.03.43Z.bak).
+2024-01-12 04:56:55 - Utils: INFO: Broadcast: Saving world...
+2024-01-12 04:56:57 - Utils: INFO: Broadcast: World saved.
+2024-01-12 04:56:57 - SaveManager: INFO: World saved at (tshock/backups/Tani_x_Aira.wld.2024-01-11T20.56.55Z.bak)
+2024-01-12 04:56:57 - BackupManager: INFO: World backed up (tshock/backups/Tani_x_Aira.wld.2024-01-11T20.56.55Z.bak).
+2024-01-12 08:18:06 - Utils: INFO: Broadcast: Saving world...
+2024-01-12 08:18:09 - Utils: INFO: Broadcast: World saved.
+2024-01-12 08:18:09 - SaveManager: INFO: World saved at (tshock/backups/Tani_x_Aira.wld.2024-01-12T00.18.06Z.bak)
+2024-01-12 08:18:09 - BackupManager: INFO: World backed up (tshock/backups/Tani_x_Aira.wld.2024-01-12T00.18.06Z.bak).
+2024-01-12 08:32:06 - Utils: INFO: Broadcast: Saving world...
+2024-01-12 08:32:08 - Utils: INFO: Broadcast: World saved.
+2024-01-12 08:32:08 - SaveManager: INFO: World saved at (tshock/backups/Tani_x_Aira.wld.2024-01-12T00.32.06Z.bak)
+2024-01-12 08:32:08 - BackupManager: INFO: World backed up (tshock/backups/Tani_x_Aira.wld.2024-01-12T00.32.06Z.bak).
+2024-01-12 08:47:34 - Utils: INFO: Broadcast: Saving world...
+2024-01-12 08:47:37 - Utils: INFO: Broadcast: World saved.
+2024-01-12 08:47:37 - SaveManager: INFO: World saved at (tshock/backups/Tani_x_Aira.wld.2024-01-12T00.47.34Z.bak)
+2024-01-12 08:47:37 - BackupManager: INFO: World backed up (tshock/backups/Tani_x_Aira.wld.2024-01-12T00.47.34Z.bak).
+2024-01-12 08:52:55 - GetDataHandlers: INFO: Tani authenticated successfully as user Tani.
+2024-01-12 08:52:57 - TShock: INFO: Tani (113.185.42.82) from 'trustedadmin' group joined. (1/8)
+2024-01-12 08:52:57 - Utils: INFO: Broadcast: Tani has joined.
+2024-01-12 08:55:00 - Utils: INFO: Broadcast: Tani has left.
+2024-01-12 08:55:00 - TShock: INFO: Tani disconnected.
+2024-01-12 08:55:00 - Utils: INFO: Broadcast: Saving world...
+2024-01-12 08:55:02 - Utils: INFO: Broadcast: World saved.
+2024-01-12 08:55:02 - SaveManager: INFO: World saved at (/root/.local/share/Terraria/Worlds/Tani_x_Aira.wld)
+2024-01-12 10:12:40 - Utils: INFO: Broadcast: Saving world...
+2024-01-12 10:12:42 - Utils: INFO: Broadcast: World saved.
+2024-01-12 10:12:42 - SaveManager: INFO: World saved at (tshock/backups/Tani_x_Aira.wld.2024-01-12T02.12.40Z.bak)
+2024-01-12 10:12:42 - BackupManager: INFO: World backed up (tshock/backups/Tani_x_Aira.wld.2024-01-12T02.12.40Z.bak).
+2024-01-12 11:38:16 - Utils: INFO: Broadcast: Saving world...
+2024-01-12 11:38:19 - Utils: INFO: Broadcast: World saved.
+2024-01-12 11:38:19 - SaveManager: INFO: World saved at (tshock/backups/Tani_x_Aira.wld.2024-01-12T03.38.16Z.bak)
+2024-01-12 11:38:19 - BackupManager: INFO: World backed up (tshock/backups/Tani_x_Aira.wld.2024-01-12T03.38.16Z.bak).
+2024-01-12 12:01:56 - Utils: INFO: Broadcast: Saving world...
+2024-01-12 12:01:59 - Utils: INFO: Broadcast: World saved.
+2024-01-12 12:01:59 - SaveManager: INFO: World saved at (tshock/backups/Tani_x_Aira.wld.2024-01-12T04.01.56Z.bak)
+2024-01-12 12:01:59 - BackupManager: INFO: World backed up (tshock/backups/Tani_x_Aira.wld.2024-01-12T04.01.56Z.bak).
+2024-01-12 12:25:07 - Utils: INFO: Broadcast: Saving world...
+2024-01-12 12:25:09 - Utils: INFO: Broadcast: World saved.
+2024-01-12 12:25:09 - SaveManager: INFO: World saved at (tshock/backups/Tani_x_Aira.wld.2024-01-12T04.25.07Z.bak)
+2024-01-12 12:25:09 - BackupManager: INFO: World backed up (tshock/backups/Tani_x_Aira.wld.2024-01-12T04.25.07Z.bak).
+2024-01-12 17:25:03 - Utils: INFO: Broadcast: Saving world...
+2024-01-12 17:25:06 - Utils: INFO: Broadcast: World saved.
+2024-01-12 17:25:06 - SaveManager: INFO: World saved at (tshock/backups/Tani_x_Aira.wld.2024-01-12T09.25.03Z.bak)
+2024-01-12 17:25:06 - BackupManager: INFO: World backed up (tshock/backups/Tani_x_Aira.wld.2024-01-12T09.25.03Z.bak).
